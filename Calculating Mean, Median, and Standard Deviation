@@ -1,0 +1,11 @@
+# Calculate mean
+mean = np.mean(data)
+print("Mean:", mean)
+
+# Calculate median
+median = np.median(data)
+print("Median:", median)
+
+# Calculate standard deviation
+std_dev = np.std(data)
+print("Standard Deviation:", std_dev)
