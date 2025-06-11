@@ -1,0 +1,5 @@
+import numpy as np
+
+# Create a sample array
+data = np.array([12, 15, 18, 21, 24, 17, 20, 23, 19, 25])
+print("Original array:", data)
